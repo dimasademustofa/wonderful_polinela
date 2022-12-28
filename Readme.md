@@ -18,3 +18,5 @@ Aplikasi Wonderful Polinela adalah sebuah aplikasi yang menampilkan sebuah infor
 
 
 
+selesai dan sudah dinilai :heavy_check_mark:
+
